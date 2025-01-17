@@ -16,17 +16,15 @@ Nostr Emoji Pack Sender is a simple GUI application that allows you to create an
 
 1. Download the latest [release](https://github.com/0ceanSlim/nostpy_emoji/releases//#latest)
 
+- make sure to get icon, config and nostpy-emoji.exe
+
 ## Usage
 
-1. Copy the example configuration file:
+1. Edit `config.yml` and input your Nostr private key and the relays you want to use.
 
-`cp config.example.yml config.yml`
+2. Run the program
 
-2. Edit `config.yml` and input your Nostr private key and the relays you want to use.
-
-3. Run the program
-
-4. Use the GUI to select your CSV file, enter a set name, and send your emoji pack.
+3. Use the GUI to select your CSV file, enter a set name, and send your emoji pack.
 
 ## CSV Format
 
