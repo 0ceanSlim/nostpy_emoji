@@ -32,8 +32,8 @@ Nostr Emoji Pack Sender is a simple GUI application that allows you to create an
 
 Your CSV file should have the following format:
 
-example,example.png  
-smiley,smiley.png
+example,image_server.com/example.png  
+smiley,image_server.com/smiley.png
 
 ### License
 
