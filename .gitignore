@@ -1,0 +1,4 @@
+config.yml
+/dist
+/build
+nostpy-emoji.spec

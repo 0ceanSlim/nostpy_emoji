@@ -1,0 +1,4 @@
+private_key: "your hex private key" # 64 characters long, use nostrcheck.me/converter to convert your nsec to hex
+relays:
+  - "wss://relay.primal.net"
+  - "wss://wheat.happytavern.co"
